@@ -1,0 +1,59 @@
+{
+    "data": {
+        "st_list": [
+            {
+                "dist_km": 0,
+                "rl": "GUJARATI",
+                "st_code": "HCL",
+                "st_name_en": "HCL TECHNOLOGIES",
+                "st_name_hi": "एचसीएल",
+                "st_name_rl": "એચસીએલ",
+                "st_no": 1
+            },
+            {
+                "dist_km": 4.76,
+                "rl": "BANGLA",
+                "st_code": "GGS",
+                "st_name_en": "GENESIS GLOBAL SCHOOL",
+                "st_name_hi": "जेनेसिस ग्लोबल स्कूल",
+                "st_name_rl": "জেনেস গ্লোবাল স্কুল",
+                "st_no": 1
+            },
+            {
+                "dist_km": 10.1,
+                "rl": "PUNJABI",
+                "st_code": "S144",
+                "st_name_en": "SECTOR 144",
+                "st_name_hi": "सेक्टर 144",
+                "st_name_rl": "ਸੈਕਟਰ 144",
+                "st_no": 1
+            },
+            {
+                "dist_km": 17.25,
+                "rl": "TAMIL",
+                "st_code": "ATS",
+                "st_name_en": "ATS JN",
+                "st_name_hi": "एटीएस जं",
+                "st_name_rl": "ஏ.டி.எஸ் Jn",
+                "st_no": 1
+            },
+            {
+                "dist_km": 24.18,
+                "rl": "MALAYALAM",
+                "st_code": "RTV",
+                "st_name_en": "RTVISION TECHNOLOGIES",
+                "st_name_hi": "आर टी वी",
+                "st_name_rl": "ആർ‌ടി‌വി",
+                "st_no": 1
+            }
+        ]
+    },
+    "info": {
+        "route": {
+            "tr_nm_en": "NOIDA RTVISION PASSENGER",
+            "tr_no_en": "12345",
+            "tr_route_en": "HCL NOIDA TO RTVISION TECHNOLOGIES",
+            "tr_via_en": "VIA GENESIS GLOBAL SCHOOL, SECTOR 144, ATS"
+        }
+    }
+}
